@@ -1,6 +1,5 @@
 # -openai-nim-proxy
 OpenAI compatible proxy for NVIDIA NIM API
-server.js
 // server.js - OpenAI to NVIDIA NIM API Proxy
 const express = require('express');
 const cors = require('cors');
